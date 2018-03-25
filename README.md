@@ -1,4 +1,4 @@
-## Which Dog Breed Are You?!
+# Which Dog Breed Are You?!
 
 This is my extension of the Udacity Artificial Intelligence Nanodegree project to a more full features application.
 
@@ -15,14 +15,19 @@ Upload four images of yourself and find out which dog breed you most resemble.
 
 4. Averaging of input human faces.
 
+## How to use
+
+Clone the repository and in the terminal, run:
+
+```
+python classify_breed.py
+```
+You will be prompted for the file paths to four images.
 
 
+____________________________________________________________________________________________________________
 
-
-
-
-
-
+## ORIGINAL PROJECT README
 
 ______________________________________________________________________________________________________________________________
 [//]: # (Image References)
