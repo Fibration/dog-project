@@ -1,3 +1,30 @@
+## Which Dog Breed Are You?!
+
+This is my extension of the Udacity Artificial Intelligence Nanodegree project to a more full features application.
+
+Upload four images of yourself and find out which dog breed you most resemble.
+
+
+## Changes to the original
+
+1. The code come in separate train/transfer learn and run scripts.
+
+2. The original dog data has been augmented.
+
+3. Stanford's substantially larger dog image dataset is combined with the original Udacity dataset.
+
+4. Averaging of input human faces.
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________________________________________________________________________
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
